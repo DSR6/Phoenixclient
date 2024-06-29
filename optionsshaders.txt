@@ -1,0 +1,19 @@
+#Thu Feb 01 15:28:37 IRST 2024
+handDepthMul=0.125
+TexMinFilB=0
+oldLighting=default
+TexMagFilN=0
+tweakBlockDamage=false
+cloudShadow=false
+TexMagFilS=0
+shaderPack=OFF
+TexMinFilN=0
+specularMapEnabled=true
+normalMapEnabled=true
+renderResMul=2.0
+oldHandLight=false
+TexMinFilS=0
+shadowResMul=2.0
+shadowClipFrustrum=true
+TexMagFilB=0
+antialiasingLevel=0
